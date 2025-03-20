@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BulsonJ, Jack Bulson
-- 👀 I’m interested in Video Game Programming & Development
-- 🌱 I’m currently programming in C++/C#
-- ☀️ I'm currently investigating Graphics/Rendering programming
+- 👀 I’m a Gameplay Programmer
+- 🌱 I’m experienced in C++ & Unreal Engine
+- ☀️ I like to learn about rendering & graphics programming
 - 📫 You can reach me at jacktbulson@gmail.com
